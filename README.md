@@ -1,5 +1,5 @@
 # Functional Programming Assignments - CIn/UFPE
-### Course: Functional Programming (2025.1)
+### Course: (IF708) Functional Programming (2025.1)
 ### Institution: Centro de Informática (CIn), Universidade Federal de Pernambuco (UFPE)
 
 Language: Haskell

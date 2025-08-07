@@ -1,4 +1,4 @@
-# Lista 3 - Programaçao Funcional
+# Assingment 3 - Functional Programming
 
 Marco Aurélio Ferreira Santana - MAFS3
 Arthur Henrique Costa - AHTLC
