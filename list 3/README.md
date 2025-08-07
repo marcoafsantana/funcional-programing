@@ -1,5 +1,8 @@
 # Lista 3 - Programaçao Funcional
 
+Marco Aurélio Ferreira Santana - MAFS3
+Arthur Henrique Costa - AHTLC
+
 ## Exp Interpreter:
 
 Follow `especificacaoInterpretador.pdf` to built a Expression Interpreter
